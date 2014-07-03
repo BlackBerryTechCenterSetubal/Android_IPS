@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--  
+<resources>
+	<event title="Evento 1" date="1/10/2014  |  10:00" latitude="38.521855" longitude="-8.838985" description="teste 1" image="images/1.jpg"/>
+	<event title="Evento 2" date="2/10/2014  |  10:00" latitude="38.521855" longitude="-8.838985" description="teste 2" image="images/2.jpg"/>
+	<event title="Evento 3" date="3/10/2014  |  10:00" latitude="38.521855" longitude="-8.838985" description="teste 3" image="images/3.jpg"/>
+	<event title="Evento 4" date="4/10/2014  |  10:00" latitude="38.521855" longitude="-8.838985" description="teste 4" image="images/4.jpg"/>
+</resources>
+-->
+
+<resources>
+    <array name="Evento1">
+        <item name="Titulo1" type="string">Wari?</item>
+        <item name="Data1" type="string">Wari?</item>
+        <item name="Descrição1" type="string">Wari?</item>
+        <item name="Imagem1" type="string">Pic</item>
+    </array>
+    
+    <array name="Evento2">
+    	
+    </array>
+        
+</resources>
